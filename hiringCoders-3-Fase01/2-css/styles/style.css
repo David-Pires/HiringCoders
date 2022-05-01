@@ -1,7 +1,9 @@
+/* tags */
 body {
   text-align: center;
 }
 
+/* ids */
 #login {
 background-color: black;
 color: white
@@ -11,6 +13,7 @@ color: white
   color: white
   }
 
+  /* classes */
   .copy {
     font-size: 12px;
   }
