@@ -28,3 +28,8 @@ body {
 .lista__footer li {
   padding: 25px;
 }
+
+.imagem {
+  width: 30%;
+  height: 30%;
+}
