@@ -1,0 +1,44 @@
+* {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+
+}
+
+/* #primeiro {
+  border: 1px solid green;
+  margin: 30px;
+}
+.segundo {
+  border: 5px solid black;
+  padding: 15px;
+} */
+
+.navigation nav span {
+  color:indigo;
+  text-decoration: none;
+  cursor: pointer;
+  transition: 300ms;
+}
+
+.navigation nav span:hover {
+  color:pink;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#primeiro, .segundo {
+  border: 5px solid black;
+  padding: 15px;
+}
+
+.segundo > p {
+  color: lawngreen;
+}
+
+.segundo > div {
+  display: block !important;  /* block faz reaparecer */
+}
+
+/* !important utilizado para dar prioridade sobre a aplicação */
