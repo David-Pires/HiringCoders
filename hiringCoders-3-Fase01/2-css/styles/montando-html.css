@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  color: white;
   
 }
 
@@ -15,4 +16,10 @@ a {
 .imagem {
   width: 30%;
   height: 30%;
+}
+
+body {
+  background-image: url(../images/pexels-jakub-novacek-924824.jpg);
+  background-repeat: none;
+  background-position: center center fixed;
 }
