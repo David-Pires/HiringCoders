@@ -19,7 +19,9 @@ a {
 }
 
 body {
-  background-image: url(../images/pexels-jakub-novacek-924824.jpg);
-  background-repeat: none;
-  background-position: center center fixed;
+  /* background-image: url(../images/pexels-jakub-novacek-924824.jpg);
+  background-repeat: no-repeat;
+  background-position: center center fixed; */
+  background: url(../images/pexels-jakub-novacek-924824.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
