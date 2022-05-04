@@ -40,5 +40,10 @@ body {
   font-size: 60px;
 }
 .container .name h5 {
-  font-size: 25px;
+  font-size: 18px;
+}
+
+ #about p{
+   margin: 0 auto;
+   max-width: 600px;
 }
